@@ -1,0 +1,29 @@
+GLOBAL SOLUTION 2026.1 — MOBILE DEVELOPMENT AND IOT
+
+INTEGRANTES:
+- Nome Completo | RM: 000000
+- Nome Completo | RM: 000000
+- Nome Completo | RM: 000000
+- Nome Completo | RM: 000000
+- Nome Completo | RM: 000000
+
+REPOSITÓRIO GITHUB: https://github.com/seu-usuario/helios-mobile
+
+VÍDEO DE DEMONSTRAÇÃO: https://youtu.be/seu-video
+
+---
+
+PROJETO: HÉLIOS — Dashboard de Controle de Painéis Solares (Base Lunar)
+VERTENTE: Sistemas autônomos e robótica para exploração espacial
+
+O app é o dashboard central da Global Solution: monitora a energia real vs esperada
+dos painéis solares de uma base lunar, diagnostica a causa de cada queda (sujeira,
+dano físico, sombra, falha elétrica) cruzando sensores e exibe o status da limpeza
+autônoma por vibração. Consome o contrato de dados compartilhado da GS (JSON local) e
+integra a API real da NASA (DONKI) para clima espacial ao vivo.
+
+ODS atendidos: 6 (água), 7 (energia limpa), 9 (inovação), 11 (cidades), 13 (clima).
+
+Recursos: Expo Router (5 telas), Context API (Auth/Theme/Data), AsyncStorage,
+formulário com validação, 2+ dashboards (LineChart/BarChart/ProgressChart).
+Diferenciais: TypeScript, API real (NASA), tema claro/escuro, animações (Moti), QR Code.
