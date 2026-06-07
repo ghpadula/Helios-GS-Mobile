@@ -41,13 +41,6 @@ Na Lua, a poeira eletrostática cobre os painéis e derruba a geração de energ
 | Componentização | `SensorCard`, `DiagnosticoCard`, `AlertItem`, `VibracaoStatus` |
 | UI tema espacial | Starfield animado + paleta espacial |
 
-### Diferenciais (5 pts)
-
-- **TypeScript** em todo o projeto
-- **API real** — NASA DONKI (erupções solares ao vivo)
-- **Tema claro/escuro** persistido
-- **Animações** com Moti (entrada dos cards + pulsação no badge de vibração ativa)
-- **QR Code** do projeto (tela de Configurações)
 
 ---
 
@@ -108,7 +101,7 @@ helios-mobile/
 
 ---
 
-## Contrato de dados (integração da GS)
+## Contrato de dados
 
 O app consome o mesmo JSON das outras matérias:
 
@@ -130,15 +123,13 @@ O app consome o mesmo JSON das outras matérias:
 
 ## Integrantes
 
-- Nome Completo | RM: 000000
+- Gabriel Henrique Padula RM:554907
 - Nome Completo | RM: 000000
 - Nome Completo | RM: 000000
 - Nome Completo | RM: 000000
 - Nome Completo | RM: 000000
 
 ## Capturas de Tela
-
-> Adicionar prints das 5 telas (Login, Energia & Diagnóstico, Limpeza, Alertas, Configurações), de preferência nos dois temas (claro/escuro).
 
 ---
 
