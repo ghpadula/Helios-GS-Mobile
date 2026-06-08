@@ -131,6 +131,22 @@ O app consome o mesmo JSON das outras matérias:
 
 ## Capturas de Tela
 
+### Login
+<img src="assets/screenshots/login.png" width="280" alt="Tela de login com validação" />
+
+### Energia & Diagnóstico (Dashboard 1)
+<img src="assets/screenshots/dashboard1_1.png" width="280" alt="Gráfico de energia real vs esperada" />
+<img src="assets/screenshots/dashboard1_2.png" width="280" alt="Diagnóstico por painel e clima espacial" />
+
+### Limpeza / Vibração
+<img src="assets/screenshots/limpeza.png" width="280" alt="Status da limpeza por vibração" />
+
+### Alertas (Dashboard 2)
+<img src="assets/screenshots/alertas.png" width="280" alt="Gráfico de alertas por causa e lista" />
+
+### Configurações
+<img src="assets/screenshots/configs.png" width="280" alt="Tema, intervalo e QR Code" />
+
 ---
 
 *HÉLIOS — da poeira lunar à energia limpa na Terra.*

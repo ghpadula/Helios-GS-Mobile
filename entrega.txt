@@ -1,15 +1,12 @@
 GLOBAL SOLUTION 2026.1 — MOBILE DEVELOPMENT AND IOT
 
 INTEGRANTES:
-- Nome Completo | RM: 000000
-- Nome Completo | RM: 000000
-- Nome Completo | RM: 000000
-- Nome Completo | RM: 000000
-- Nome Completo | RM: 000000
+- Gabriel Henrique Padula RM: 554907
+- Arthur Abonizio rm: 555506
+- Rodrigo Nakata RM: 556417
 
-REPOSITÓRIO GITHUB: https://github.com/seu-usuario/helios-mobile
 
-VÍDEO DE DEMONSTRAÇÃO: https://youtu.be/seu-video
+REPOSITÓRIO GITHUB: https://github.com/ghpadula/Helios-GS-Mobile
 
 ---
 
