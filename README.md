@@ -125,7 +125,7 @@ O app consome o mesmo JSON das outras matérias:
 
 - Gabriel Henrique Padula RM:554907
 - Arthur Abonizio | RM: 555506
-- Nome Completo | RM: 000000
+- Rodrigo Nakata | RM: 556417
 
 ## Capturas de Tela
 
