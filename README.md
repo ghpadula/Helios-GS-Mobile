@@ -124,9 +124,7 @@ O app consome o mesmo JSON das outras matérias:
 ## Integrantes
 
 - Gabriel Henrique Padula RM:554907
-- Nome Completo | RM: 000000
-- Nome Completo | RM: 000000
-- Nome Completo | RM: 000000
+- Arthur Abonizio | RM: 555506
 - Nome Completo | RM: 000000
 
 ## Capturas de Tela
